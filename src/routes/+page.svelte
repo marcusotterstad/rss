@@ -36,7 +36,7 @@
     </footer>
 </main>
 
-<style>http://localhost:5173/cursor-changelog.xmlhttp://localhost:5173/cursor-changelog.xml
+<style>
     .container {
         max-width: 800px;
         margin: 0 auto;
